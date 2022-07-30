@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+
+# compiled output
+/dist
+
+# operating system
+.DS_Store
+
+# credentials
+*.env
+!example.env
+ormconfig.json
+
+# logs
+*.log
